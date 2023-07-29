@@ -3,3 +3,4 @@
 *.py annex.largefiles=nothing
 srf2obj annex.largefiles=nothing
 *.md annex.largefiles=nothing
+README annex.largefiles=nothing
