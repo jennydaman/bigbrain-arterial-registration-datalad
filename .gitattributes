@@ -1,3 +1,4 @@
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
 *.py annex.largefiles=nothing
+srf2obj annex.largefiles=nothing
