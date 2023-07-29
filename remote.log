@@ -1,0 +1,1 @@
+5b644e35-f6ef-4132-9cc1-c9636bfc713b autoenable=true bucket=bigbrain-arterial-registration-datalad datacenter=US encryption=none host=stack.nerc.mghpcc.org name=nerc-swift port=13808 protocol=https public=yes requeststyle=path storageclass=STANDARD type=S3 timestamp=1690622673.311291s
